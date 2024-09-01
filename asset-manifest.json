@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deepikaa0402/krishiPact2024/static/css/main.f8b92ef5.css",
+    "main.js": "/deepikaa0402/krishiPact2024/static/js/main.1b453411.js",
+    "index.html": "/deepikaa0402/krishiPact2024/index.html",
+    "main.f8b92ef5.css.map": "/deepikaa0402/krishiPact2024/static/css/main.f8b92ef5.css.map",
+    "main.1b453411.js.map": "/deepikaa0402/krishiPact2024/static/js/main.1b453411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8b92ef5.css",
+    "static/js/main.1b453411.js"
+  ]
+}
